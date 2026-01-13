@@ -1,3 +1,5 @@
+#Elliott Morris, 1/13/2026, Proverbs Print Test
+
 def proverbs_22_29():
     # Write your Proverbs 22:29 code below
     print('“Do you see a man skillful in his work?')
